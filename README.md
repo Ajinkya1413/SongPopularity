@@ -1,2 +1,2 @@
-# SongPopularity
-Spotify Track Popularity Prediction (Predicting the popularity of the track before releasing)
+# Song Popularity Prediction
+Predicting the popularity of a Spotyfy track before releasing
